@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\bin\Debug\netcoreapp3.1\Day2_Fibonachy.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\bin\Debug\netcoreapp3.1\Day2_Fibonachy.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\bin\Debug\netcoreapp3.1\Day2_Fibonachy.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\bin\Debug\netcoreapp3.1\Day2_Fibonachy.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\bin\Debug\netcoreapp3.1\Day2_Fibonachy.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\bin\Debug\netcoreapp3.1\Day2_Fibonachy.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Fibonachy\obj\Debug\netcoreapp3.1\Day2_Fibonachy.genruntimeconfig.cache
