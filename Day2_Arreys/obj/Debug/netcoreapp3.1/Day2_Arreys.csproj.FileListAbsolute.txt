@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\bin\Debug\netcoreapp3.1\Day2_Arreys.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\bin\Debug\netcoreapp3.1\Day2_Arreys.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\bin\Debug\netcoreapp3.1\Day2_Arreys.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\bin\Debug\netcoreapp3.1\Day2_Arreys.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\bin\Debug\netcoreapp3.1\Day2_Arreys.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\bin\Debug\netcoreapp3.1\Day2_Arreys.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day2_Arreys\obj\Debug\netcoreapp3.1\Day2_Arreys.genruntimeconfig.cache

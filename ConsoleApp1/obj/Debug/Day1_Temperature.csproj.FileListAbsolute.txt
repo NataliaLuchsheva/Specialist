@@ -1,0 +1,7 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\obj\Debug\Day1_Temperature.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\obj\Debug\Day1_Temperature.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
