@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\bin\Debug\netcoreapp3.1\Day3_Quadratic.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\bin\Debug\netcoreapp3.1\Day3_Quadratic.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\bin\Debug\netcoreapp3.1\Day3_Quadratic.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\bin\Debug\netcoreapp3.1\Day3_Quadratic.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\bin\Debug\netcoreapp3.1\Day3_Quadratic.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\bin\Debug\netcoreapp3.1\Day3_Quadratic.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\day3_Quadratic\obj\Debug\netcoreapp3.1\Day3_Quadratic.genruntimeconfig.cache
