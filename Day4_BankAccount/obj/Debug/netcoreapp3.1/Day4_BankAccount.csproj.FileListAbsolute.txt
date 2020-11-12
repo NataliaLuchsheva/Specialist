@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\bin\Debug\netcoreapp3.1\Day4_BankAccount.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\bin\Debug\netcoreapp3.1\Day4_BankAccount.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\bin\Debug\netcoreapp3.1\Day4_BankAccount.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\bin\Debug\netcoreapp3.1\Day4_BankAccount.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\bin\Debug\netcoreapp3.1\Day4_BankAccount.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\bin\Debug\netcoreapp3.1\Day4_BankAccount.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.genruntimeconfig.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day4_BankAccount\obj\Debug\netcoreapp3.1\Day4_BankAccount.csprojAssemblyReference.cache

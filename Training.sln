@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_Quadratic", "day3_Quad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_OOP", "Day3_OOP\Day3_OOP.csproj", "{8229AA32-9538-41E3-B507-AE42AA5CC3D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_OOP_interface", "Day4_OOP_interface\Day4_OOP_interface.csproj", "{8AFDFF12-5511-4166-99AC-D595794397E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4_BankAccount", "Day4_BankAccount\Day4_BankAccount.csproj", "{A2E89FC5-FCEE-4110-8242-67373DB46918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{8229AA32-9538-41E3-B507-AE42AA5CC3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8229AA32-9538-41E3-B507-AE42AA5CC3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8229AA32-9538-41E3-B507-AE42AA5CC3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFDFF12-5511-4166-99AC-D595794397E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFDFF12-5511-4166-99AC-D595794397E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFDFF12-5511-4166-99AC-D595794397E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFDFF12-5511-4166-99AC-D595794397E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E89FC5-FCEE-4110-8242-67373DB46918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E89FC5-FCEE-4110-8242-67373DB46918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E89FC5-FCEE-4110-8242-67373DB46918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E89FC5-FCEE-4110-8242-67373DB46918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

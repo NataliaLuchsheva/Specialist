@@ -2,16 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-/*
- * IColorfull
- *  setColor
- * 
- */
-
 namespace OOP
 {
 
-    public abstract class GraphObject
+    public class GraphObject
     {
         public const string DEFAULT_COLOR = "black";
 
