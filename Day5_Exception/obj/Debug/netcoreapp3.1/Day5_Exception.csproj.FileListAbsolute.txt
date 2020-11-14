@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\bin\Debug\netcoreapp3.1\Day5_Exception.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\bin\Debug\netcoreapp3.1\Day5_Exception.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\bin\Debug\netcoreapp3.1\Day5_Exception.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\bin\Debug\netcoreapp3.1\Day5_Exception.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\bin\Debug\netcoreapp3.1\Day5_Exception.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\bin\Debug\netcoreapp3.1\Day5_Exception.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_Exception\obj\Debug\netcoreapp3.1\Day5_Exception.genruntimeconfig.cache

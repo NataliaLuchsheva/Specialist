@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\bin\Debug\netcoreapp3.1\Day5_PersonExt.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\bin\Debug\netcoreapp3.1\Day5_PersonExt.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\bin\Debug\netcoreapp3.1\Day5_PersonExt.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\bin\Debug\netcoreapp3.1\Day5_PersonExt.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\bin\Debug\netcoreapp3.1\Day5_PersonExt.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\bin\Debug\netcoreapp3.1\Day5_PersonExt.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day5_PersonExt\obj\Debug\netcoreapp3.1\Day5_PersonExt.genruntimeconfig.cache

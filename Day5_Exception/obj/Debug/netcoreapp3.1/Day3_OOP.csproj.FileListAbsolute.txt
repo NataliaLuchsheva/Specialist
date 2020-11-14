@@ -1,0 +1,13 @@
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.csprojAssemblyReference.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.AssemblyInfoInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.AssemblyInfo.cs
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.csproj.CoreCompileInputs.cache
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\bin\Debug\netcoreapp3.1\Day3_OOP.exe
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\bin\Debug\netcoreapp3.1\Day3_OOP.deps.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\bin\Debug\netcoreapp3.1\Day3_OOP.runtimeconfig.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\bin\Debug\netcoreapp3.1\Day3_OOP.runtimeconfig.dev.json
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\bin\Debug\netcoreapp3.1\Day3_OOP.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\bin\Debug\netcoreapp3.1\Day3_OOP.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.dll
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.pdb
+C:\Users\n.luchsheva\source\repos\SpecialistTraining11.2020\ConsoleApp1\Day3_OOP\obj\Debug\netcoreapp3.1\Day3_OOP.genruntimeconfig.cache
